@@ -8,6 +8,6 @@ public class QuickController {
 
     @RequestMapping("/quick")
     public String quick(){
-        return "SpringBoot!!!";
+        return "Spring Boot!!!";
     }
 }
